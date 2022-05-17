@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>    </title>
+</head>
+<body bgcolor="pink"><font color="brown"><b><u><h1><p align="center">Squads</p></h1></u></b></font>
+<br><br>
+<font size="5"><b><u>Squad Of MI</u></b>
+Ishan Kishan<br><br><img src="Ishan-Kishan.png">
+</body>
+</html>
